@@ -94,7 +94,8 @@ Out-of-sample test: the VAR is estimated on data up to 2023Q2 and forecasts the 
 | Inflation | 0.57 | 1.19 | **0.48** |
 | Fed Funds Rate | 1.67 | 0.75 | **2.21** |
 
-<img width="2382" height="2258" alt="04_var_forecast" src="https://github.com/user-attachments/assets/40c8d1f3-5657-454b-9d2b-53691871c283" />
+<img width="1320" height="999" alt="05_qpm_shock_scenario" src="https://github.com/user-attachments/assets/e94ab01d-9541-4309-b522-d2beefd4c30a" />
+
 
 - The VAR beats the random walk for inflation, the output gap and oil.
 - The VAR is much worse for the policy rate: it extrapolated the 2022–2023 tightening and predicted rates rising to ~6.7%, while the Fed held rates and then started cutting. A statistical model cannot see forward-looking policy decisions.
