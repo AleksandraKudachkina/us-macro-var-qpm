@@ -46,11 +46,13 @@ $$x_t = 100 \cdot (\log Y_t - \log Y_t^*)$$
 
 ## 1. Macro overview
 
-![Macro overview](figures/01_macro_overview.png)
+<img width="2359" height="2383" alt="01_macro_overview" src="https://github.com/user-attachments/assets/1eb821b3-6d85-48f6-81c3-68f92a0dc7e0" />
+
 
 The data show the main macro episodes: the Global Financial Crisis, the zero lower bound period, the COVID shock, the 2021–2023 inflation surge and the Fed tightening cycle.
 
-![Oil and dollar](figures/02_oil_dollar.png)
+<img width="2382" height="1383" alt="02_oil_dollar" src="https://github.com/user-attachments/assets/8ee87225-423b-43a0-a409-b51b0e6a0e37" />
+
 
 ---
 
@@ -92,7 +94,7 @@ Out-of-sample test: the VAR is estimated on data up to 2023Q2 and forecasts the 
 | Inflation | 0.57 | 1.19 | **0.48** |
 | Fed Funds Rate | 1.67 | 0.75 | **2.21** |
 
-![VAR forecast](figures/04_var_forecast.png)
+<img width="2382" height="2258" alt="04_var_forecast" src="https://github.com/user-attachments/assets/40c8d1f3-5657-454b-9d2b-53691871c283" />
 
 - The VAR beats the random walk for inflation, the output gap and oil.
 - The VAR is much worse for the policy rate: it extrapolated the 2022–2023 tightening and predicted rates rising to ~6.7%, while the Fed held rates and then started cutting. A statistical model cannot see forward-looking policy decisions.
@@ -145,7 +147,8 @@ Because OLS cannot properly identify how rates affect the economy, the scenario 
 - **Baseline:** inflation gradually returns to ~2% in 12 quarters, the output gap closes and turns slightly negative, the policy rate gradually declines. A "soft landing".
 - **Shock:** +100 bp hike in quarter 1. The effect is measured as the difference between the shock scenario and the baseline.
 
-![QPM scenario](figures/05_qpm_shock_scenario.png)
+<img width="1320" height="999" alt="05_qpm_shock_scenario" src="https://github.com/user-attachments/assets/ec757be8-1363-4180-a5fd-a01711311acb" />
+
 
 | | Starts reacting | Maximum effect | When |
 |---|---|---|---|
