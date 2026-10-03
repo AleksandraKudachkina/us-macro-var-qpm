@@ -73,7 +73,7 @@ A 4-variable VAR with Cholesky identification:
 
 ### Impulse responses to a Fed Funds shock
 
-![VAR IRF](figures/03_var_irf.png)
+<img width="1997" height="1850" alt="03_var_irf" src="https://github.com/user-attachments/assets/e4241705-e5bf-40fd-9b20-edc741b30af9" />
 
 - **Fed Funds Rate:** +0.27 p.p. on impact, peak ≈ 0.58 p.p. after 3–4 quarters, then fades.
 - **Inflation:** declines after the shock, minimum ≈ −0.07 p.p. after about 8 quarters.
